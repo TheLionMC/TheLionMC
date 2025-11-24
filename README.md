@@ -8,12 +8,13 @@
 **Languages**
 - 🟦 C# (.NET)
 - 🟩 C
+- ➕ C++ (Never touching that language ever again in my life)
 - 🟫 Docker
 - 🟥 Ruby
 - 🟧 CSS / HTML
 - 🟨 JavaScript / TypeScript (Node.js)
 - 🧱 Java (Minecraft Mods & Plugins)
-- ➕ C++ (Never touching that language ever again in my life)
+
 - 🐘 SQL (PostgreSQL, SQLite)
 
 **Tools & Frameworks**
@@ -39,14 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TheLionMC&show_icons=true&theme=tokyonight&hide_border=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLionMC&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
-
----
-
-### 🧩 About Me
-- 🎮 There is a minecraft dev deep inside my heart somewhere - I just haven't found it yet
-- 💡 I wish my code would legit just work
-- 🧠 I don't like frontend, I like backend :D  
-- 🚀 I like doing new stuff for the first time
 
 ---
 
