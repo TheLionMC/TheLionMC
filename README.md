@@ -3,19 +3,19 @@
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 **Languages**
-- 🟦 C# (.NET)
-- 🟩 C
-- ➕ C++ (Never touching that language ever again in my life)
-- 🟫 Docker
-- 🟥 Ruby
-- 🟧 CSS / HTML
-- 🟨 JavaScript / TypeScript (Node.js)
-- 🧱 Java (Minecraft Mods & Plugins)
+- C# (.NET)
+- C
+- C++ (Never touching that language ever again in my life)
+- Docker
+- Ruby
+- CSS / HTML
+- JavaScript / TypeScript (Node.js)
+- Java (Minecraft Mods & Plugins)
 
-- 🐘 SQL (PostgreSQL, SQLite)
+- SQL (PostgreSQL, SQLite, MySQL)
 
 **Tools & Frameworks**
 - Docker & Docker Compose
@@ -27,23 +27,14 @@
 
 ---
 
-### 🧠 What I’m Working On currently
-- 🧩 **Blacklist System**
-- 🛡️ **Minecraft Anticheat System** with advanced combat checks  
-- 🌐 **.NET Backend rewrite** services deployed via Docker  
+### What I’m Working On currently
+- **MCBlitz**
+- **Minecraft Anticheat System**   
+- **Blacklist System**  
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheLionMC&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLionMC&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
-
----
-
-### 📫 Connect with Me
+### Connect with Me
 - 💻 **GitHub:** [@TheLionMC](https://github.com/TheLionMC)
 - 🧠 **Projects:** [github.com/TheLionMC?tab=repositories](https://github.com/TheLionMC?tab=repositories)
 
