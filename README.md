@@ -11,7 +11,9 @@
 - C++ (Never touching that language ever again in my life)
 - Docker
 - Ruby
+- Rust
 - CSS / HTML
+- Python
 - JavaScript / TypeScript (Node.js)
 - Java (Minecraft Mods & Plugins)
 
@@ -29,7 +31,7 @@
 
 ### What I’m Working On currently
 - **MCBlitz**
-- **Minecraft Anticheat System**   
+- **Rust rewrite of a Minecraft Server** 
 - **Blacklist System**  
 
 ---
@@ -37,8 +39,3 @@
 ### Connect with Me
 - 💻 **GitHub:** [@TheLionMC](https://github.com/TheLionMC)
 - 🧠 **Projects:** [github.com/TheLionMC?tab=repositories](https://github.com/TheLionMC?tab=repositories)
-
----
-
-> “I like producing errors”
-
