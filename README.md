@@ -1,7 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=400&lines=Backend+Dev;Minecraft+Plugin+%26+Mod+Dev)](https://git.io/typing-svg)
-
----
-
 ### Tech Stack
 
 **Languages**
@@ -29,12 +25,13 @@
 ---
 
 ### What I’m Working On currently
-- **MCBlitz**
+- **School's App**
 - **Rust rewrite of a Minecraft Server** 
-- **Blacklist System**  
+- **A PC Building Website**
+- **The best learning platform out there**  
 
 ---
 
 ### Connect with Me
-- 💻 **GitHub:** [@TheLionMC](https://github.com/TheLionMC)
-- 🧠 **Projects:** [github.com/TheLionMC?tab=repositories](https://github.com/TheLionMC?tab=repositories)
+- **GitHub:** [@TheLionMC](https://github.com/TheLionMC)
+- **Projects:** [github.com/TheLionMC?tab=repositories](https://github.com/TheLionMC?tab=repositories)
